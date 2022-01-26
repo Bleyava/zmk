@@ -1,0 +1,9 @@
+file_format: "1"
+id: bleyava
+name: bleyava_v1
+type: shield
+url: https://github.com/bleyava/zmk/
+requires: [nice_nano_v2]
+siblings:
+  - bleyava_v1_left
+  - bleyava_v1_right
